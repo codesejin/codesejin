@@ -4,26 +4,14 @@
 
 ![codesejin GitHub stats](https://github-readme-stats.vercel.app/api?username=codesejin&show_icons=true&theme=radical)
 [![codesejin GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=codesejin&langs_count=10&layout=compact&theme=radical)](https://github.com/codesejinn)<br/>
-<!-- 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=codesejin)](https://solved.ac/codesejin)
--->
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seijin0722)](https://solved.ac/seijin0722/)
 
 ### 💪Skills
 #### Platforms & Languages
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
- 
-
+![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Mongodb](https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)
- 
- 
 ### 📮Contacts
 
 <!-- [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@codesejin/)](https://velog.io/@codesejin/)
