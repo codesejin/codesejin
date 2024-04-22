@@ -17,7 +17,7 @@
 <!-- [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@codesejin/)](https://velog.io/@codesejin/)
 -->
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:seijin0722@naver.com)](mailto:seijin0722@naver.com)
-
+블로그 : https://strong-park.tistory.com/
 
 
 
