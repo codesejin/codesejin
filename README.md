@@ -17,8 +17,5 @@
 <!-- [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@codesejin/)](https://velog.io/@codesejin/)
 -->
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:seijin0722@naver.com)](mailto:seijin0722@naver.com)
-블로그 : https://strong-park.tistory.com/
-
-
 
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcodesejin%2Fhit-counter&count_bg=%23D83B7C&title_bg=%23151321&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/codesejin)
